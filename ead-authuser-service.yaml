@@ -39,7 +39,7 @@ ead:
 
 authuser:
   refreshscope:
-    name: Jose Vitor
+    name: Jose Vitor update
 
 management:
   endpoints:
