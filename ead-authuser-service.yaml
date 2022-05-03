@@ -37,6 +37,10 @@ ead:
     exchange:
       userEvent: ead.userevent
 
+authuser:
+  refreshscope:
+    name: Jose Vitor update
+
 resilience4j:
   circuitbreaker:
     instances:
